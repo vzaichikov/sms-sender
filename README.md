@@ -49,3 +49,5 @@ try {
     echo $e->getMessage();
 }
 ```
+
+Информация о возвращаемых статусах и формате данных в [описании API SmsClub](https://smsclub.mobi/ru/api)
