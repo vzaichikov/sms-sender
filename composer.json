@@ -1,0 +1,21 @@
+{
+  "name": "smsclub/sms-sender",
+  "type": "library",
+  "description": "Сервис отправки SMS-сообщений",
+  "keywords": ["sms", "sender"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "1-Yuriy",
+      "email": "yuriy@rand.pp.ua"
+    }
+  ],
+  "require": {
+    "php": "~5.4|~7.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": { "SmsSender\\": "src/" }
+  }
+}
