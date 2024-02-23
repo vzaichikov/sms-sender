@@ -1,5 +1,5 @@
 {
-  "name": "smsclub/sms-sender",
+  "name": "vzaichikov/sms-sender",
   "type": "library",
   "description": "Сервис отправки SMS-сообщений",
   "keywords": ["sms", "sender"],
